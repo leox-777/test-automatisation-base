@@ -1,0 +1,16 @@
+{
+  "startOfWeek": "#string",
+  "capitalInfo": {
+    "latlng": [
+      "#number",
+      "#number"
+    ]
+  },
+  "capital": [
+    "#string"
+  ],
+  "languages": {
+    "spa": "#string"
+  },
+  "fifa": "#string"
+}
